@@ -16,10 +16,10 @@
   "logo": "https://i.ibb.co/F3sc7Nb/Purple-Music-Store-Etsy-Banner.png",
   "success_url": "/",
   "env": {
-    "BOT_NAME": {
+    "BOT_NAME": Xre
       "description": "Name of your bot"
     },
-    "PREFIX": {
+    "PREFIX": !
       "description": "Prefix of your bot"
     },
     "CRON": {
@@ -29,7 +29,7 @@
     "SESSION_ID": {
       "description": "A string for the session to be classified and to get access to the server endpoints"
     },
-    "ADMINS": {
+    "ADMINS": "919732627489"
       "description": "The phone numbers of the users who you want to be admin for the bot (separated by a comma \",\")",
       "required": false
     },
